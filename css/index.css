@@ -1,0 +1,268 @@
+body{
+
+	width: 99%;
+	height: auto;
+	background-image: url("../img/background.png");
+	background-size: cover;
+
+}
+
+div.all{
+
+	width: 100%;
+	height: auto;
+	text-align: center;
+
+}
+
+footer.copy{
+
+	display: inline-block;
+	padding-bottom: 50px;
+	height: 75px;
+	width: 300px;
+
+}
+
+p.grand-espace{
+
+	height: 200px;
+
+}
+
+p.moyen-espace{
+
+	height: 100px;
+
+}
+
+p.petit-espace{
+
+	height: 50px;
+
+}
+
+p.ricici-espace{
+
+	height: 25px;
+
+}
+
+p.super-petit-espace{
+
+	height: 10px;
+
+}
+
+p.encore-super-petit-espace{
+
+	height: 1px;
+
+}
+
+p.copyright{
+
+	color: white;
+
+}
+
+a.legal{
+
+	color: white;
+	text-decoration: none;
+
+}
+
+a.legal:hover{
+
+	text-decoration: underline;
+
+}
+
+a.legale{
+
+	text-decoration: none;
+	color: white;
+
+}	
+
+header{
+
+	display: inline-block;
+	width: 100%;
+	height: 100px;
+	box-shadow: 0 16px 8px #F5F5F5;
+
+}
+
+nav{
+
+	width: 100%;
+	height: 80px;
+
+}
+
+ul{
+
+	width: 95%;
+	height: 80px;
+
+}
+
+li.icon{
+
+	display: inline-block;
+	float: left;
+	width: 75px;
+	height: 75px;
+
+}
+
+li.home{
+
+	display: inline-block;
+	float: right;
+	padding-top: 25px;
+
+}
+
+a.naviguer{
+
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+
+}
+
+a.espace-egale{
+
+	display: inline-block;
+	width: 25px;
+
+}
+
+a.naviguer:hover{
+
+	display: block;
+	text-decoration: underline;
+
+}
+
+div.footer{
+
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	padding-bottom: 10px;
+
+}
+
+div.welcome{
+
+	display: inline-block;
+	width: 75%
+
+}
+
+div.telechargement-left{
+
+	display: inline-block;
+	float: left;
+	width: 335px;
+	height: 470px;
+	background-image: url("../img/background-addchargement.png");
+	background-size: cover;
+
+}
+
+div.addons-right{
+
+	display: inline-block;
+	float: right;
+	width: 335px;
+	height: 470px;
+	background-image: url("../img/background-addchargement.png");
+	background-size: cover;
+
+}
+
+div.addchargement{
+
+	display: inline-block;
+	width: 1202px;
+	height: auto;
+
+}
+
+div.sourire{
+
+	display: inline-block;
+	width: 335px;
+	height: 470px;
+	background-image: url("../img/background-addchargement.png");
+	background-size: cover;
+
+}
+
+h2.tele-subtitle{
+
+	display: inline-block;
+	width: 280px;
+
+}
+
+a.tele-redirect{
+
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+
+}
+
+a.tele-redirect:hover{
+
+	text-decoration: underline;
+
+}
+
+h2.addons-subtitle{
+
+	display: inline-block;
+	width: 280px;
+
+}
+
+a.addons-redirect{
+
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+
+}
+
+a.addons-redirect:hover{
+
+	text-decoration: underline;
+
+}
+
+h2.docu-subtitle{
+
+	display: inline-block;
+	width: 280px;
+
+}
+
+a.docu-redirect{
+
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+
+}
+
+a.docu-redirect:hover{
+
+	text-decoration: underline;
+
+}
